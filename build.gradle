@@ -34,7 +34,6 @@ dependencies {
 		"org.springframework.boot:spring-boot-starter-actuator:${spring_boot_version}",
 		"org.springframework.boot:spring-boot-starter-data-jpa:${spring_boot_version}",
 		"org.springframework.boot:spring-boot-starter-test:${spring_boot_version}",
-		"org.springframework.boot:spring-boot-starter-test:${spring_boot_version}",
 		//"org.springframework.boot:spring-boot-starter-data-mongodb:${spring_boot_version}",
 		
 		"org.springframework:spring-context-support:${spring_framework_version}",
@@ -64,3 +63,4 @@ eclipse{
 		targetCompatibility = 1.7
 	}
 }
+
